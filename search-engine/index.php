@@ -34,7 +34,6 @@ include("classes/search.class.php");
                <h2>Instructions:</h2>
 
                 <ol>
-                <li>git test</li>
                     <li>Select the source you want to search in.</li>
                     <li>Please copy and paste the URL or type text in the textarea.</li>
                     <li>Enter the keyword you want to find.</li>
