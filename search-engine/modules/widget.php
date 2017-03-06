@@ -58,6 +58,6 @@ if(isset($_POST['search']) ) {
 
     $feedback_text = $search->countWords()->text;
 
-    $feedback_class = $feedback_class = $search->countWords()->class;
+    $feedback_class = $search->countWords()->class;
 
 }
